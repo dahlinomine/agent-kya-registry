@@ -1,0 +1,10 @@
+{
+  "name": "agent-kya-registry",
+  "version": "0.1.0",
+  "description": "Solidity protocol for registering non-human agent identities and verifiable credentials.",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test"
+  },
+  "license": "MIT"
+}
